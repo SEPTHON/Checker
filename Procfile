@@ -1,0 +1,1 @@
+worker: bash septhon.py
